@@ -1,1 +1,0 @@
-My not empty dir
